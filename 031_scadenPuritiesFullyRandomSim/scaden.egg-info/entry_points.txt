@@ -1,0 +1,2 @@
+[console_scripts]
+scaden = scaden.__main__:main
